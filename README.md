@@ -1,2 +1,14 @@
 # mile-stats-guide
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
